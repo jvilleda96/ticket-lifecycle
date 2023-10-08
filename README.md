@@ -32,15 +32,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/7026a1ee-2741-407d-a601-dc1c442f830a)
 
-2) As an admin I review the ticket and adjust priorty and assigment. In this example I adjusted the priorty to "Emergency" and the SLA to "SEV-A" because this is an issue that is affecting business. I've also    transferred it to the "System Administrators" group, assigning it to myself, an administrator.
+2) As an admin I review the ticket and adjust priority and assignment. In this example I adjusted the priority to "Emergency" and the SLA to "SEV-A" because this is an issue that is affecting business. I've also    transferred it to the "System Administrators" group, assigning it to myself, an administrator.
   
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/9734117b-5a54-481e-9d0b-9e165d52cd81)
 
-   In this example I respond with an immediate solution, changin the ticket status to resolved.
+   In this example I respond with an immediate solution, changing the ticket status to "Resolved".
 
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/27d5c117-caa5-4d67-8122-66431b116e07)
 
-3) This next ticket is less urgent, so I adjsuted the settings as such.
+3) This next ticket is less urgent, so I adjusted the settings as such.
 
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/cf3d14b4-a1f1-46eb-93d5-789813137d7e)
 
@@ -48,5 +48,5 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/036aa926-53b8-4ed0-8864-e59a5f166ec3)
 
-You've now succesfully managed tickets using osTicket.
+You've now successfully managed tickets using osTicket.
    
