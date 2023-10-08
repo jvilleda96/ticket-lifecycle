@@ -24,4 +24,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-1) Log into your osTicket agent account.
+1) Log into your osTicket agent account to view all pending tickets. In this example we're logging in as an admin.
+
+   ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/48e181a0-836a-42b8-afb2-d152fad88778)
+
+   Home dashboard shows pending tickets as soon as you login.
+
+   ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/7026a1ee-2741-407d-a601-dc1c442f830a)
+
+2) As an admin I review the ticket and adjust priorty and assigment. In this example I adjusted the priorty to "Emergency" and the SLA to "SEV-A" because this is an issue that is affecting business. I've also    transferred it to the "System Administrators" group, assigning it to myself, an administrator.
+  
+   ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/9734117b-5a54-481e-9d0b-9e165d52cd81)
+
+   In this example I respond with an immediate solution, changin the ticket status to resolved.
+
+   ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/27d5c117-caa5-4d67-8122-66431b116e07)
