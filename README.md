@@ -39,3 +39,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
    In this example I respond with an immediate solution, changin the ticket status to resolved.
 
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/27d5c117-caa5-4d67-8122-66431b116e07)
+
+3) This next ticket is less urgent, so I adjsuted the settings as such.
+
+   ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/cf3d14b4-a1f1-46eb-93d5-789813137d7e)
+
+   I re-assigned the ticket to my team member, Jane Doe, letting her know with a friendly phone call. I also responded to the client to make them aware of this hand off.
+
+   ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/036aa926-53b8-4ed0-8864-e59a5f166ec3)
+
+You've now succesfully managed tickets using osTicket.
+   
