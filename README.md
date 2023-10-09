@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+On this page I will outline what I've learned about the helpdesk ticket lifecycle and how to assign them as a manager as well.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -24,11 +24,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-1) Log into your osTicket agent account to view all pending tickets. In this example we're logging in as an admin.
+1) I log into my osTicket agent account to view all pending tickets. In this example I am logging in as an admin.
 
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/48e181a0-836a-42b8-afb2-d152fad88778)
 
-   Home dashboard shows pending tickets as soon as you login.
+   Home dashboard shows pending tickets as soon as I login.
 
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/7026a1ee-2741-407d-a601-dc1c442f830a)
 
@@ -48,5 +48,5 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/036aa926-53b8-4ed0-8864-e59a5f166ec3)
 
-You've now successfully managed tickets using osTicket.
+I've now shown how I would personally handle any help desk tickets, both as an agent and a manager.
    
