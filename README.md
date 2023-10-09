@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-On this page I will outline what I've learned about the helpdesk ticket lifecycle and how to assign them as a manager as well.<br />
+On this page I will outline what I've learned about the helpdesk ticket lifecycle and how to handle them as a manager as well.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -32,11 +32,11 @@ On this page I will outline what I've learned about the helpdesk ticket lifecycl
 
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/7026a1ee-2741-407d-a601-dc1c442f830a)
 
-2) As an admin I review the ticket and adjust priority and assignment. In this example I adjusted the priority to "Emergency" and the SLA to "SEV-A" because this is an issue that is affecting business. I've also    transferred it to the "System Administrators" group, assigning it to myself, an administrator.
+2) As an admin I review the ticket and adjust priority and assignment. In this example I adjusted the priority to "Emergency" and the SLA to "SEV-A" because this is an issue that is affecting business. I've also    transferred it to the "System Administrators" group, assigning it to myself, an administrator. As I was working on this page I realized I didn't crop the issue description, the main issue was that our client's were unable to access their online banking accounts.
   
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/9734117b-5a54-481e-9d0b-9e165d52cd81)
 
-   In this example I respond with an immediate solution, changing the ticket status to "Resolved".
+   In this example I respond with an immediate solution (this would be the "Working the issue" step), changing the ticket status to "Resolved".
 
    ![image](https://github.com/jvilleda96/ticket-lifecycle/assets/147073936/27d5c117-caa5-4d67-8122-66431b116e07)
 
